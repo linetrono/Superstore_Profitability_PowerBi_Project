@@ -1,4 +1,4 @@
-#  Superstore Sales and Profitability Dashboard
+#  Superstore Sales and Profitability Project
 
 ##  Project Overview
 This Power BI project analyzes **sales, profit, and discount performance** across regions, product categories, and customer segments.  
