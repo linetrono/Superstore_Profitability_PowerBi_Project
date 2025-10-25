@@ -37,4 +37,11 @@ It provides a clear view of key business drivers, helping management identify wh
 Total Sales = SUM(Sales[Sales])
 Total Profit = SUM(Sales[Profit])
 Profit Margin % = DIVIDE([Total Profit], [Total Sales])
+```
+
+---
+
+[Download Insights Report(PDF)](Superstore_Insights_Report.pdf)
+
+[View Interactive Dashboard Demo](
 
