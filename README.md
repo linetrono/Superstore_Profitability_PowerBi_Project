@@ -24,7 +24,7 @@ It provides a clear view of key business drivers, helping management identify wh
 
 ---
 
-## ⚙️ Tools & Techniques
+##  Tools & Techniques
 - **Power BI Desktop:** For modeling, report building, and visualization  
 - **Power Query:** For cleaning and transforming raw Superstore data  
 - **DAX (Data Analysis Expressions):** For KPI calculations and measures  
