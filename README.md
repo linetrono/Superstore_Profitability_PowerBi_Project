@@ -41,7 +41,9 @@ Profit Margin % = DIVIDE([Total Profit], [Total Sales])
 
 ---
 
+[Dashboard View](dashboard_view.png)
+
 [Download Insights Report(PDF)](Superstore_Insights_Report.pdf)
 
-[Watch Interactive Dashboard Demo](Superstore_Interactive_Dashboard)
+[Download/Watch Interactive Dashboard Demo](Superstore_Interactive_Dashboard)
 
