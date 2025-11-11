@@ -80,15 +80,20 @@ Interactivity & Features
 Slicers: Added for State, Category, Shipmode, Year and Segment to allow dynamic filtering.
 Tooltips: Created to display quick summaries when hovering over visuals.
 ```
+
 ---
 
 ##  Key Insights
-- **Total Sales:** $2.30M | **Total Profit:** $286K | **Average Discount:** 16%  
-- The **West region** generated the highest revenue and profit, while the **Central region** had the lowest profit due to higher discounts.  
-- **Technology** category showed strong profit margins despite moderate discounting.  
-- **Furniture** had the largest share of discounts, significantly lowering profit margins.  
-- **Consumer segment** contributed the highest sales volume but also received the highest discounts.  
-- Overall, reducing excessive discounts in low-performing categories could lead to improved profitability.  
+
+- **Total Sales:** $2.30M | **Total Profit:** $286K | **Average Discount:** 16%
+  
+**Profitability:** The company maintains a healthy **12.5% margin**, but performance varies sharply by region;**West** leads overall, the **South** operates most efficiently, while the **Central** region underdelivers due to likely cost or discount inefficiencies.  
+
+**Discount Impact:** Heavy discounting in the **Consumer segment** erodes profit, whereas disciplined pricing in **Corporate** and **Home Office** segments sustains strong margins.  
+
+**Product Focus:** **Copiers, Phones, and Accessories** are high-return categories. **Tables** and **Bookcases** underperform and need cost or pricing review.  
+
+**Strategic Priorities:** Strengthen discount governance, investigate **Central region** profitability issues, and replicate **South region’s efficiency model** to lift overall margins.  
 
 ---
 
