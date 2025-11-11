@@ -115,13 +115,13 @@ Tooltips: Created to display quick summaries when hovering over visuals.
    - View the interactive Power BI dashboard demo below or open the GIF preview to see the dashboard in action.
 
 2. **Project Files**
-   - `Superstore_Dashboard.xlsx` – Contains the **dashboard sheet**, **tooltip sheet**, and **insights sheet**.  
+   - `Superstore_Full_Report.pbix` – Contains the **dashboard sheet**, **tooltip sheet**, and **insights sheet**.  
    - `dashboard_image_view.png` – Static image of the final dashboard view.  
    - `Superstore_Dashboard_GIF.gif` – Animated dashboard preview.  
    - `Superstore_Insights_Report.pdf` – Downloadable insights report in PDF format.
 
 3. **Interactivity**
-   - Use slicers such as **Region**, **Category**, **Sub-Category**, and **Segment** to dynamically explore sales and profit data.  
+   - Use slicers such as **Region**, **Category**, **Year**, and **Segment** to dynamically explore sales and profit data.  
    - Hover over visuals to see **tooltips** summarizing KPIs like Profit Margin, Sales, and Discounts.  
    - Navigate between the **Dashboard**, **Tooltip**, and **Insights** sheets for different levels of analysis.
 
